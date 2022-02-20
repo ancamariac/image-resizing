@@ -1,5 +1,13 @@
 # Image Resizing using Pixel Replication Method
 
+This is a project developed for the Java Web Applications subject. The input image is a 24-bit BMP image and the processed photo is resized corresponding to a scale factor.
+
+# Tech Stack
+
+- Eclipse Mars 2
+- Java 8
+- Threads
+
 # Cerinte de implementare
 
 1. Imaginea sursa este BMP (fisier) – 24bit BMP – RGB
