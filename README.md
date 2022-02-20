@@ -8,6 +8,9 @@ This is a project developed for the Java Web Applications subject. The input ima
 - Java 8
 - Threads
 
+# Documentatie
+Documentatia acestui proiect poate fi gasita [aici](https://github.com/ancamariac/image-resizing/blob/main/documentatie.pdf).
+
 # Cerinte de implementare
 
 1. Imaginea sursa este BMP (fisier) – 24bit BMP – RGB
